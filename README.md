@@ -7,6 +7,7 @@
 💭 В настоящее время изучаю нейрсети и автоматическое тестирование.<br/>
 
 ## 🤝 Социальные сети:
+
  <div id="badges">
     <a href="https://t.me/m1ruku" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
@@ -14,7 +15,10 @@
   </div>
 
   ---
-  ##  Мои работы:
+  ###  Мои работы:
+
+[Документация](https://drive.google.com/drive/folders/1hJQ5YPTSRLzIg60Dq_RHORQqm7PKGfwS?usp=drive_link)<br/>
+
   ---
 
 ### 📁 Тестовая документация:
